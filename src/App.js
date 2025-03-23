@@ -62,13 +62,7 @@ export default function App() {
             <FaTerminal className="me-2" /> Md Habibur Rahman
           </Navbar.Brand>
           <div className="d-flex gap-3">
-            <a
-              href="https://github.com/Habibur-02"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <FaGithub className="social-icon" />
-            </a>
+            
             <a
               href="https://linkedin.com/in/habibur02"
               target="_blank"
@@ -83,6 +77,13 @@ export default function App() {
 >
   <FaEnvelope className="social-icon" />
 </a>
+    <a
+              href="https://github.com/Habibur-02"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <FaGithub className="social-icon" />
+            </a>
           
           </div>
         </Container>
