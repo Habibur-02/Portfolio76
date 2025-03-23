@@ -107,6 +107,10 @@ export default function App() {
               <Button variant="light" href="https://github.com/Habibur-02">
                 View GitHub
               </Button>
+                </Button>
+              <Button variant="light" href="https://docs.google.com/document/d/1XBF3ZLWadQNVScRULKfHLUNZbFAWHE7uqbOOO5vsRb8/edit?usp=sharing">
+                View Resume
+              </Button>
             </div>
           </Col>
         </Row>
