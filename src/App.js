@@ -145,8 +145,8 @@ export default function App() {
               in my third year. With a strong foundation in both software
               development and hardware systems, I specialize in building
               efficient solutions across multiple domains. My journey includes
-              solving 300+ complex coding problems on platforms like Codeforces,
-              Hackerrank and CodeChef, while simultaneously exploring AI/ML
+              solving 600+ coding problems on platforms like Codeforces,
+              Hackerrank and Leetcode, while simultaneously exploring AI/ML
               applications and embedded systems development.
             </p>
           </Card.Body>
