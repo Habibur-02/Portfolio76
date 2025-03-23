@@ -44,8 +44,7 @@ export default function App() {
         "4LgPQgwX3LgF52q9_"
       )
       .then(() => {
-        alert("Message sent successfully! You Will get reply from habibur.ruet10@gmail.com  
-              Thank You!");
+        alert("Message sent successfully! You Will get reply from habibur.ruet10@gmail.com. Thank You!");
         formRef.current.reset();
       })
       .catch((error) => {
