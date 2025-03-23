@@ -328,7 +328,7 @@ export default function App() {
                 <Form ref={formRef} onSubmit={sendEmail}>
                   <Form.Group className="mb-3">
                     <Form.Control
-                      name="name"
+                      name="from_email"
                       type="email"
                       placeholder="Your email"
                       required
