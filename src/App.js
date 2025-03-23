@@ -354,7 +354,7 @@ export default function App() {
                   <p>Connect via LinkedIn for professional inquiries:</p>
                   <Button
                     variant="outline-primary"
-                    href="www.linkedin.com/in/habibur02"
+                    href="https://linkedin.com/in/habibur02"
                     target="_blank"
                   >
                     <FaLinkedin className="me-2" /> LinkedIn Profile
