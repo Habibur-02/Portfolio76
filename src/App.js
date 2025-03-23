@@ -38,10 +38,10 @@ export default function App() {
 
     emailjs
       .sendForm(
-        "service_hft1alh",
-        "template_a4ddbfg",
+        "service_k6svt1g",
+        "template_wla8dnm",
         formRef.current,
-        "snzre0XGes54-4Fye"
+        "4LgPQgwX3LgF52q9_"
       )
       .then(() => {
         alert("Message sent successfully!");
