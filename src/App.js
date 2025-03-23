@@ -23,7 +23,6 @@ import {
   FaCog,
   FaUserGraduate,
   FaBriefcase,
-  FaEnvelope,
 } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import emailjs from "@emailjs/browser";
