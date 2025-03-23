@@ -76,6 +76,13 @@ export default function App() {
             >
               <FaLinkedin className="social-icon" />
             </a>
+                <a
+  href="mailto:habibur.ruet10@gmail.com"
+  target="_blank"
+  rel="noreferrer"
+>
+  <FaEnvelope className="social-icon" />
+</a>
           
           </div>
         </Container>
