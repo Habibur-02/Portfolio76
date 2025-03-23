@@ -70,7 +70,7 @@ export default function App() {
               <FaGithub className="social-icon" />
             </a>
             <a
-              href="www.linkedin.com/in/habibur02"
+              href="https://linkedin.com/in/habibur02"
               target="_blank"
               rel="noreferrer"
             >
