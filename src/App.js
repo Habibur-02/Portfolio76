@@ -108,7 +108,7 @@ export default function App() {
                 View GitHub
               </Button>
                 </Button>
-              <Button variant="light" href="https://docs.google.com/document/d/1XBF3ZLWadQNVScRULKfHLUNZbFAWHE7uqbOOO5vsRb8/edit?usp=sharing">
+              <Button variant="light" href="https://docs.google.com/document/d/1XBF3ZLWadQNVScRULKfHLUNZbFAWHE7uqbOOO5vsRb8/edit?tab=t.0">
                 View Resume
               </Button>
             </div>
